@@ -6,7 +6,7 @@
 //  Copyright © 2015年 AlezJi. All rights reserved.
 //
 
-//http://www.jianshu.com/p/e6ddeaca4b48
+
 
 
 #import "ViewController.h"
